@@ -1,0 +1,62 @@
+.red-theme body {
+    background-color: rgb(255, 0, 0);
+}
+
+.orange-theme body {
+    background-color: orange;
+}
+
+.yellow-theme body {
+    background-color: yellow;
+}
+
+.green-theme body {
+    background-color: green;
+}
+
+.blue-theme body {
+    background-color: blue;
+}
+
+.purple-theme body {
+    background-color: purple;
+}
+
+
+.red-theme h1 {
+	color: rgb(170, 0, 0);
+	text-align: center;
+    }     
+    
+    
+.orange-theme h1 {
+	color: rgb(174, 113, 0);
+	text-align: center;
+    } 
+
+
+
+.yellow-theme h1 {
+	color: rgb(178, 178, 0);
+	text-align: center;
+    } 
+
+
+
+.green-theme h1 {
+	color: rgb(0, 206, 0);
+	text-align: center;
+    } 
+
+
+.blue-theme h1 {
+	color: rgb(0, 0, 182);
+	text-align: center;
+    } 
+
+
+    
+.purple-theme h1 {
+	color: rgb(199, 0, 199);
+	text-align: center;
+    } 
